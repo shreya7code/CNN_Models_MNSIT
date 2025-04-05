@@ -1,6 +1,4 @@
-# CNN_Models_MNSIT
-
-# MNIST CNN Classifier & Pretrained Model Comparison
+# CNN Classifier & Pretrained Model Comparison on MNIST Dataset
 
 This project compares training performance of a custom CNN with pretrained models (ResNet18, AlexNet, LeNet) on MNIST dataset using PyTorch.
 
